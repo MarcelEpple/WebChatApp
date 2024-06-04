@@ -1,6 +1,6 @@
 # Webentwicklung Chat App
 
-DISCLAIMER: Das Design stand bei dieser Arbeit nicht im Vordergrund sondern der funktionaler einbau verschiedener Funktionen wie 
+DISCLAIMER: Das Design stand bei dieser Arbeit nicht im Vordergrund sondern der funktionaler Einbau verschiedener Funktionen wie 
 (Live Chatting, Freundschaftsanfragen, Freundelisten, Eigene Interressen sowie Login & Register)
 
 Entwickelt von:

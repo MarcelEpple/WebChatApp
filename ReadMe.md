@@ -1,5 +1,8 @@
 # Webentwicklung Chat App
 
+DISCLAIMER: Das Design stand bei dieser Arbeit nicht im Vordergrund sondern der funktionaler einbau verschiedener Funktionen wie 
+(Live Chatting, Freundschaftsanfragen, Freundelisten, Eigene Interressen sowie Login & Register)
+
 Entwickelt von:
 - Marcel Epple mae9255@thi.de
 - Paul Bertram pab2114@thi.de
